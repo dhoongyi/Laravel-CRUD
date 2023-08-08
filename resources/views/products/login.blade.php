@@ -34,13 +34,13 @@
             @csrf
             <div class="my-4">
                 <label for="email" class="block text-xl text-stone-900 mb-2">Email:</label>
-                <input type="email" id="email" name="email" class="w-full border border-slate-300 rounded-md p-2 focus:outline-0 focus:border-slate-700"autocomplete="off"/>
+                <input type="email" id="email" name="email" class="w-full border border-slate-300 rounded-md p-2 focus:outline-0 focus:border-slate-700" autocomplete="off"/>
             </div>
 
             <div class="my-4 relative">
                 <label for="password" class="block text-xl text-stone-900 mb-2">Password:</label>
                 <div class="absolute right-5 top-11"><i class="fas fa-lock cursor-pointer text-gray-500" id="lock" onclick="showPwd(event)"></i></div>
-                <input type="password" id="password" name="password" class="w-full border border-slate-300 rounded-md p-2 focus:outline-0 focus:border-slate-700"/>
+                <input type="password" id="password" name="password" class="w-full border border-slate-300 rounded-md p-2 focus:outline-0 focus:border-slate-700" autocomplete="off"/>
             </div>
 
             <div class="flex justify-end items-center gap-5 mt-[40px]">

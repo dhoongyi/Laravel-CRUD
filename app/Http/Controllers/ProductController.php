@@ -58,7 +58,7 @@ class ProductController extends Controller
             // "photo" => $photoName
         ]);
 
-        return view("products/index");
+        return view("products/item");
     }
 
     public function delete($id){
