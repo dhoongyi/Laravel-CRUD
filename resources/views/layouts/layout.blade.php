@@ -19,7 +19,6 @@
                 <ul class="w-full mt-[50px] space-y-3 px-3">
                     <li class="w-full bg-indigo-500 text-white rounded-md shadow-sm cursor-pointer py-3 transition-all duration-500 hover:bg-indigo-600 hover:shadow-md hover:shadow-gray-400"><a href="{{url("index")}}" class="text-xl font-semibold px-3"><i class="fas fa-list fa-lg mr-[20px]"></i>Items</a></li>
                     <li class="w-full bg-indigo-500 text-white rounded-md shadow-sm cursor-pointer py-3 transition-all duration-500 hover:bg-indigo-600 hover:shadow-md hover:shadow-gray-400"><a href="{{url("products/item")}}" class="text-xl font-semibold px-3"><i class="fas fa-plus-circle fa-lg mr-[20px]"></i>Add Items</a></li>
-                    <li class="w-full bg-indigo-500 text-white rounded-md shadow-sm cursor-pointer py-3 transition-all duration-500 hover:bg-indigo-600 hover:shadow-md hover:shadow-gray-400"><a href="{{url("products/instock")}}" class="text-xl font-semibold px-3"><i class="fas fa-check-circle fa-lg mr-[20px]"></i>Items Instock</a></li>
                     <li class="w-full bg-indigo-500 text-white rounded-md shadow-sm cursor-pointer py-3 transition-all duration-500 hover:bg-indigo-600 hover:shadow-md hover:shadow-gray-400"><a href="{{url("items/userview")}}" class="text-xl font-semibold px-3"><i class="fas fa-user-circle fa-lg mr-[20px]"></i>User View</a></li>
                 
                 </ul>

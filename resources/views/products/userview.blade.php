@@ -21,36 +21,36 @@
                 </form>
             </div>
 
-            <div class="w-4/5 flex justify-between items-center mx-auto my-8">
+            <div class="w-4/5 flex justify-between items-center mx-auto m-8">
                 <h1 class="text-2xl font-bold text-stone-500">What are you looking for?</h1>
 
                 <a href="javascript:void(0);" class="text-blue-500 font-bold hover:text-blue-700"> View More >> </a>
             </div>
 
             <div class="w-4/5 mx-auto flex justify-evenly">
-                <div class="w-[200px] h-[100px] bg-violet-200 text-stone-500 rounded-md flex justify-center items-center flex-col">
-                    <i class="fas fa-laptop fa-3x"></i>
-                    <span class="text-lg font-semibold">Computer</span>
+                <div class="w-[200px] h-[100px] bg-violet-200 text-blue-500 rounded-md flex justify-center items-center flex-col">
+                    <i class="fas fa-laptop text-4xl"></i>
+                    <span class="text-lg font-semibold text-gray-700">Computer</span>
                 </div>
 
-                <div class="w-[200px] h-[100px] bg-violet-200 text-stone-500 rounded-md flex justify-center items-center flex-col">
-                    <i class="fas fa-mobile-alt fa-3x"></i>
-                    <span class="text-lg font-semibold">Phone</span>
+                <div class="w-[200px] h-[100px] bg-violet-200 text-blue-500 rounded-md flex justify-center items-center flex-col">
+                    <i class="fas fa-mobile-alt text-4xl"></i>
+                    <span class="text-lg font-semibold text-gray-700">Phone</span>
                 </div>
 
-                <div class="w-[200px] h-[100px] bg-violet-200 text-stone-500 rounded-md flex justify-center items-center flex-col">
-                    <i class="fas fa-tv fa-3x"></i>
-                    <span class="text-lg font-semibold">Television</span>
+                <div class="w-[200px] h-[100px] bg-violet-200 text-blue-500 rounded-md flex justify-center items-center flex-col">
+                    <i class="fas fa-tv text-4xl"></i>
+                    <span class="text-lg font-semibold text-gray-700">Television</span>
                 </div>
 
-                <div class="w-[200px] h-[100px] bg-violet-200 text-stone-500 rounded-md flex justify-center items-center flex-col">
-                    <i class="fas fa-vest fa-3x"></i>
-                    <span class="text-lg font-semibold">Fashion</span>
+                <div class="w-[200px] h-[100px] bg-violet-200 text-blue-500 rounded-md flex justify-center items-center flex-col">
+                    <i class="fas fa-vest text-4xl"></i>
+                    <span class="text-lg font-semibold text-gray-700">Fashion</span>
                 </div>
 
-                <div class="w-[200px] h-[100px] bg-violet-200 text-stone-500 rounded-md flex justify-center items-center flex-col">
-                    <i class="fas fa-tools fa-3x"></i>
-                    <span class="text-lg font-semibold">Help</span>
+                <div class="w-[200px] h-[100px] bg-violet-200 text-blue-500 rounded-md flex justify-center items-center flex-col">
+                    <i class="fas fa-tools text-4xl"></i>
+                    <span class="text-lg font-semibold text-gray-700">Help</span>
                 </div>
             </div>
 
